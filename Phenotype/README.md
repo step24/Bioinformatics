@@ -1,11 +1,9 @@
 # Phenotype analysis
 **Genotype** 
 
-Источник: https://www.opensnp.org/genotypes  
-
-User: indigolotus2@outlook.com  
-
-ID: 7746  
+> Источник: https://www.opensnp.org/genotypes  
+> User: indigolotus2@outlook.com  
+> ID: 7746  
 
 > file 7746.ancestry.txt contains genotype  
 

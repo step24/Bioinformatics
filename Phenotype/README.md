@@ -1,6 +1,7 @@
 # Phenotype analysis
-**Genotype**
+**Genotype** 
 ```
+Источник: https://www.opensnp.org/genotypes
 User: indigolotus2@outlook.com
 ID: 7746
 ```
@@ -8,8 +9,7 @@ ID: 7746
 https://hirisplex.erasmusmc.nl
  
 ![GitHub Logo](images/hirisplex.png)
-![GitHub Logo](images/eye color.png)
- 
+![GitHub Logo](images/eye_color.png)
 
 - Для выявления риска тромбоза использовал метод The 5-SNP risk allele distribution in patients with venous thrombosis and control subjects and corresponding ORs
 Из https://ashpublications.org/blood/article-lookup/doi/10.1182/blood-2011-12-397752

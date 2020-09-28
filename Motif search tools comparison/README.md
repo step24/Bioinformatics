@@ -6,12 +6,14 @@
  
 ![GitHub Logo](images/Рисунок59.jpg)
 ![GitHub Logo](images/Рисунок60.jpg)
- 
-Factorbook:
+
+## Лучшие мотивы транскрипционного фактора по разным интернет-ресурсам
+
+- Factorbook:
 
 ![GitHub Logo](images/Рисунок61.png)
 
-Jaspar:
+- Jaspar:
  
 ![GitHub Logo](images/Рисунок62.png)
 ![GitHub Logo](images/Рисунок63.png)

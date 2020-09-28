@@ -6,7 +6,7 @@ ID: 7746
 ```
 - Отфильтровал генотип по нужным снипам, проставил соответствующие значения, получил результат, что наиболее вероятный цвет глаз - голубой.
  
-
+![GitHub Logo](images/Рисунок.png)
  
 
 - Для выявления риска тромбоза использовал метод The 5-SNP risk allele distribution in patients with venous thrombosis and control subjects and corresponding ORs

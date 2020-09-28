@@ -28,11 +28,11 @@ https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusL
 - Чтобы перевести координаты найденных мутаций, прибавим разницу в нуклеотидах согласно множественному выравниванию (+35 и +1 так как, в питоне индексы начинаются с нуля – надо перевести в позиции в разметке генома: это прописано в скрипте).
 
 Сопоставление мутаций генам образцов вируса (Непальский и Малазийский):
-*1.	Мутация C/A: ген - orf1a polyprotein/ orf1ab polyprotein
-*2.	Мутация C/A: ген - orf1a polyprotein/ orf1ab polyprotein
-*3.	Мутация G/T: ген - orf1a polyprotein/ orf1ab polyprotein
-*4.	Мутация C/T: ген - orf1ab polyprotein
-*5.	Мутация C/T: ген - orf1ab polyprotein
+* 1.	Мутация C/A: ген - orf1a polyprotein/ orf1ab polyprotein
+* 2.	Мутация C/A: ген - orf1a polyprotein/ orf1ab polyprotein
+* 3.	Мутация G/T: ген - orf1a polyprotein/ orf1ab polyprotein
+* 4.	Мутация C/T: ген - orf1ab polyprotein
+* 5.	Мутация C/T: ген - orf1ab polyprotein
 
 
 

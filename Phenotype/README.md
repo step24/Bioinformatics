@@ -5,25 +5,27 @@
 User: indigolotus2@outlook.com
 ID: 7746
 ```
+## Анализ/предсказание цвета глаз по генотипу данного индивида
 - Отфильтровал генотип по нужным снипам, проставил соответствующие значения, получил результат, что наиболее вероятный цвет глаз - голубой.
-https://hirisplex.erasmusmc.nl
+> Использовал: https://hirisplex.erasmusmc.nl
  
 ![GitHub Logo](images/hirisplex.png)
 ![GitHub Logo](images/eye_color.png)
 
+## Анализ риска тромбоза у индивида с данным генотипом
 - Для выявления риска тромбоза использовал метод The 5-SNP risk allele distribution in patients with venous thrombosis and control subjects and corresponding ORs
-Из https://ashpublications.org/blood/article-lookup/doi/10.1182/blood-2011-12-397752
+> Использовал: https://ashpublications.org/blood/article-lookup/doi/10.1182/blood-2011-12-397752
 
-- Отобрал нужные снипы из генотипа:
+- Отобрал нужные (ассоциированные) снипы из генотипа:
 
 ![GitHub Logo](images/trombosis.png)
  
-1.	Снип rs6025:
+### 1.	Снип rs6025:
 Ввиду того, что файл моего генотипа построен по положительному стренду, так как компания 23andme все файлы так форматирует, а в snpedia он отрицательный, меняя нуклеотиды в связи со сменой стренда прихожу к выводу, что в данном снипе у генотипа аллели GG – не рисковые.
 
 ![GitHub Logo](images/Рисунок33.png)
 
-2.	Снип rs2066865:
+### 2.	Снип rs2066865:
 В Snpedia не нашёл данных, по ссылке на статью в NCBI нашёл информацию о том, что мои аллели не рисковые (так как у меня GG, а не ТТ)
 
 ![GitHub Logo](images/Рисунок34.png)
@@ -32,12 +34,12 @@ https://hirisplex.erasmusmc.nl
  
 ![GitHub Logo](images/Рисунок35.png)
 
-3.	Снип rs2036914:
+### 3.	Снип rs2036914:
 Нашёл по ссылке на статью из Snpedia (на Snpedia не было информации), что мои аллели СС рисковые.
  
 ![GitHub Logo](images/Рисунок36.png)
 
-4.	Снип rs8176719:
+### 4.	Снип rs8176719:
 На snpedia нашёл информацию, о том, что мои аллели DD (две делеции) ассоциированы с типом крови "О".
  
 ![GitHub Logo](images/Рисунок37.png)
@@ -47,7 +49,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5338014/
 
 ![GitHub Logo](images/Рисунок38.png)
 
-5.	Снип rs1799963
+### 5.	Снип rs1799963
 В Snpedia мои аллеи на таком же положительном стренде дают результат – не рисковые аллели.
  
 ![GitHub Logo](images/Рисунок39.png)
@@ -57,9 +59,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5338014/
  
 ![GitHub Logo](images/graphik.png)
 
-
-
-3)	Rs1815739:
+# 3)	Rs1815739:
 Данный снип ассоциирован с мышечной выносливостью. У представленного мной генотипа аллели СС на положительном стренде согласно Snpedia говорят о том, что у него выносливые мышцы и предрасположенность к спринтам, лёгкой атлетике.
  
 ![GitHub Logo](images/Рисунок41.png)

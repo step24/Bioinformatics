@@ -1,11 +1,15 @@
 # Phenotype analysis
 **Genotype** 
-```
-Источник: https://www.opensnp.org/genotypes
-User: indigolotus2@outlook.com
-ID: 7746
-file 7746.ancestry.txt contains genotype
-```
+
+Источник: https://www.opensnp.org/genotypes  
+
+User: indigolotus2@outlook.com  
+
+ID: 7746  
+
+> file 7746.ancestry.txt contains genotype  
+
+
 ## Анализ/предсказание цвета глаз по генотипу данного индивида
 - Отфильтровал генотип по нужным снипам, проставил соответствующие значения, получил результат, что наиболее вероятный цвет глаз - голубой.
 > Использовал: https://hirisplex.erasmusmc.nl

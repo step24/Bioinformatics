@@ -9,17 +9,17 @@
 
 
 ## Анализ/предсказание цвета глаз по генотипу данного индивида
-- Отфильтровал генотип по нужным снипам, проставил соответствующие значения, получил результат, что наиболее вероятный цвет глаз - голубой.
+*Отфильтровал генотип по нужным снипам, проставил соответствующие значения, получил результат, что наиболее вероятный цвет глаз - голубой.*
 > Использовал: https://hirisplex.erasmusmc.nl
  
 ![GitHub Logo](images/hirisplex.png)
 ![GitHub Logo](images/eye_color.png)
 
 ## Анализ риска тромбоза у индивида с данным генотипом
-- Для выявления риска тромбоза использовал метод The 5-SNP risk allele distribution in patients with venous thrombosis and control subjects and corresponding ORs
+*Для выявления риска тромбоза использовал метод The 5-SNP risk allele distribution in patients with venous thrombosis and control subjects and corresponding ORs*
 > Использовал: https://ashpublications.org/blood/article-lookup/doi/10.1182/blood-2011-12-397752
 
-- Отобрал нужные (ассоциированные) снипы из генотипа:
+*Отобрал нужные (ассоциированные) снипы из генотипа:*
 
 ![GitHub Logo](images/trombosis.png)
  
